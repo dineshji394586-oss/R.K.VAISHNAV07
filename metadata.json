@@ -1,0 +1,6 @@
+{
+  "name": "JSR KMart",
+  "description": "Responsive quick-commerce grocery delivery platform for mobile and desktop with Customer, Delivery Partner, and Admin apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
